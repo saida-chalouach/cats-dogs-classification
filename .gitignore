@@ -1,0 +1,25 @@
+# Environnements virtuels (NE JAMAIS PUSHER)
+chat-chien-detection/detection/
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Données d'entraînement (TROP VOLUMINEUSES)
+chat-chien-detection/data/*.npy
+chat-chien-detection/data/*.zip
+chat-chien-detection/*.zip
+*.rar
+
+# Modèles entraînés (TROP GROS)
+chat-chien-detection/*.h5
+chat-chien-detection/*.keras
+
+# Dossier data complet (sauf structure)
+chat-chien-detection/data/test_set/
+chat-chien-detection/data/training_set/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.tmp
