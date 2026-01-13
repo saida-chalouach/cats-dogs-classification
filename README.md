@@ -23,4 +23,4 @@ python train.py
 python predict.py chemin/vers/image.jpg
 ```
 ## result 
-![Training Result](result/train01.png)
+![Training Result](train01.PNG)
