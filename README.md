@@ -22,3 +22,5 @@ python train.py
 ```bash
 python predict.py chemin/vers/image.jpg
 ```
+## result 
+![Image Alt](https://github.com/saida-chalouach/cats-dogs-classification/blob/f40e9107bf4a92df)
